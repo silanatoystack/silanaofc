@@ -72,20 +72,9 @@
     "yt-search":"*",
     "gemini-ai": "*",
     "node-gtts": "*",
-    "ytdl-core":"*",
-    "api-dylux":"*",
     "buffer":"*",
-    "g4f":"*",
     "ruhend-scraper":"*",
     "aptoide-scraper":"*",
-    "canvas":"*",
-    "@hapi/boom":"*",
-    "qrcode":"*",
-    "node-yt-dl":"*",
-    "google-translate-api-x":"*",
-    "@vitalets/google-translate-api":"*",
-    "@bochilteam/scraper-sosmed":"*",
-    "@bochilteam/scraper":"*",
     "yargs": "^17.7.1"
   }
 }
