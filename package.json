@@ -74,6 +74,8 @@
     "node-gtts": "*",
     "buffer":"*",
     "ruhend-scraper":"*",
+    "@vitalets/google-translate-api":"*",
+    "g4f":"*",
     "aptoide-scraper":"*",
     "yargs": "^17.7.1"
   }
