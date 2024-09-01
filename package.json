@@ -83,6 +83,7 @@
     "ytdl-core":"*",
     "api-dylux":"*",
     "node-yt-dl":"*",
+    "canvas":"*",
     "aptoide-scraper":"*",
     "yargs": "^17.7.1"
   }
