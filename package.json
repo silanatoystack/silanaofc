@@ -76,6 +76,10 @@
     "ruhend-scraper":"*",
     "@vitalets/google-translate-api":"*",
     "g4f":"*",
+    "@hapi/boom":"*",
+    "qrcode":"*",
+    "node-yt-dl":"*",
+    "google-translate-api-x":"*",
     "aptoide-scraper":"*",
     "yargs": "^17.7.1"
   }
