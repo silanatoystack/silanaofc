@@ -80,6 +80,9 @@
     "qrcode":"*",
     "node-yt-dl":"*",
     "google-translate-api-x":"*",
+    "ytdl-core":"*",
+    "api-dylux":"*",
+    "node-yt-dl":"*",
     "aptoide-scraper":"*",
     "yargs": "^17.7.1"
   }
